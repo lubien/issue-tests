@@ -1,0 +1,29 @@
+{
+  "name": "issue-tests",
+  "version": "1.0.0",
+  "description": "> Exemplo de repositório, não me leve a sério.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubien/issue-tests.git"
+  },
+  "keywords": [
+    "test",
+    "codigo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lubien/issue-tests/issues"
+  },
+  "homepage": "https://github.com/lubien/issue-tests#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
